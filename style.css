@@ -1,0 +1,117 @@
+h1{
+     text-align: center;
+     font-size: 60px;
+    background-color: black;
+    color: brown;  
+}
+body{ 
+    background-image: url(./pics/valorant.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100% ;
+   background-attachment: fixed;
+
+}
+
+.pics{
+    text-align: center;
+    display: block;
+}
+
+.AGENTS{
+   
+    height: 150px;
+    width:170px;
+    
+  
+}
+
+.j{
+    background-image: url(./pics/jett.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+   
+}
+.r{
+    background-image: url(./pics/reyna.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.o{
+    background-image: url(./pics/omen.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.c{
+    background-image: url(./pics/cypher.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.n{
+    background-image: url(./pics/neon.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.b{
+    background-image: url(./pics/breach.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.p{
+    background-image: url(./pics/pheonix.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.v{
+    background-image: url(./pics/viper.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.s{
+    background-image: url(./pics/sage.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.br{
+    background-image: url(./pics/brim.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+
+.ge{
+    background-image: url(./pics/gekko.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.so{
+    background-image: url(./pics/sova.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.ra{
+    background-image: url(./pics/raze.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.ch{
+    background-image: url(./pics/chamber.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.footer{
+    
+    background-color: red ;
+    color: black;
+    padding: 5px;
+    
+}
+.foter{
+    text-align: right;
+    padding: 100px;
+    font-size: 20px;
+}
